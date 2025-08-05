@@ -1,4 +1,4 @@
-# SD_AD_2
+# SCT_AD_2
 This To-Do List web application allows users to add, edit, and delete tasks easily. It features a clean and responsive design, ensuring tasks are neatly displayed with action buttons aligned for better usability.
 The To-Do List App is a lightweight and user-friendly task management tool designed to help users stay organized. Built using HTML, CSS, and JavaScript, this web application allows users to add, edit, and delete tasks effortlessly. Its minimalistic design ensures a clean interface where tasks are clearly listed with action buttons for quick updates.
 
